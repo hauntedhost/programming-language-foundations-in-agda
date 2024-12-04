@@ -5,4 +5,4 @@
 Personal code while reading [Programming Language Foundations in Agda](https://plfa.github.io/).
 
 ---
-[Sean Omlor](http://seanomlor.com)
+👻 [haunted.host](https://www.haunted.host)
